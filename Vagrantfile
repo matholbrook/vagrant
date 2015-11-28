@@ -3,6 +3,6 @@ Vagrant.configure(2) do |config|
 
 
 
-# hello
+# hello world
 
 end
